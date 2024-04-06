@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @SLIMEvoid45
+- 👋 Hi, I’m @SLIME
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python
